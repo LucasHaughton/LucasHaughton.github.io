@@ -3,18 +3,16 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Lucas Haughton
 
-Welcome! I'm a [short sentence about yourself] — maybe a student, engineer, or developer.
+Welcome! I'm an aspiring Electrical Engineer at Clarkson University Class of 2027.
 
 ## 🔧 What I Do
 
-- Web development using HTML, CSS, JS
 - Embedded systems and microcontrollers
 - Creative problem solving
 
 ## 📫 Contact
 
-- Email: your@email.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- GitHub: [@LucasHaughton](https://github.com/yourusername)
+- LinkedIn: [lucas-haughton](https://linkedin.com/in/yourname)
